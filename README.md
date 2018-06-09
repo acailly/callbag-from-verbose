@@ -1,6 +1,8 @@
 # callbag-from-verbose
 
-A more verbose way to create callbags
+  A more verbose way to create callbags
+
+`npm install callbag-from-verbose`
 
 ## Concepts
 

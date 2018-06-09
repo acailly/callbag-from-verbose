@@ -1,0 +1,25 @@
+{
+  "name": "callbag-from-verbose",
+  "version": "1.0.0",
+  "description": "A more verbose way to create callbags",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acailly/callbag-from-verbose.git"
+  },
+  "keywords": [
+    "callbag"
+  ],
+  "author": "acailly",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/acailly/callbag-from-verbose/issues"
+  },
+  "homepage": "https://github.com/acailly/callbag-from-verbose#readme"
+}
